@@ -1,4 +1,5 @@
-const login = "Login v2 with API - Bug Fixed";
+const login = "Login v2 with API";
+
 console.log(login);
 
 const api = "Login API Added";
